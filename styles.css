@@ -37,3 +37,7 @@ li {
 li span {
     font-weight: bold;
 }
+
+a {
+    text-decoration: none;
+}
